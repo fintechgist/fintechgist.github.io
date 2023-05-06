@@ -1,0 +1,10 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Fintech Gist
+description:  Latest news, updates, and insights on the world of financial technology, or fintech. Designed to provide a comprehensive resource for individuals, businesses, and investors who are interested in staying up-to-date on the latest trends and developments in the rapidly evolving fintech industry.
+
+show_downloads: true
+
+# Google Analytics
+#google_analytics: G-VPBW9T8Q3M
