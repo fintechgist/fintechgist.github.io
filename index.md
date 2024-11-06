@@ -1,1 +1,3 @@
 # Hello world ...
+
+It seems I've gotten a bit caught up with other things and fallen behind on this project. If you're seriously interested in the domain name, just let me know and we can chat about it further. Here is the [contact](https://forms.gle/3aLXC8AyXsTDRAtJ6).
